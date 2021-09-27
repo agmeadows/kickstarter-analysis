@@ -16,7 +16,7 @@ Reviewing the chart, we see a few obvious trends. These can be used to help dete
 
 1. Launching campaigns near the beginning or end of the year are very likely to fail.
 2. Campaigns launched between April and July have an average success rate of ~65%. This is a ~5% increase over the ~60% average during the other months of the year.
-3. May and June are the best months to launch a caimpaign and are the mostly likely to each their goal.
+3. May and June are the best months to launch a caimpaign and are the mostly likely to reach their goal.
 
 ### Analysis of Play Outcomes Based on Goals
 
