@@ -10,6 +10,8 @@ Through analysis, we will determine strategies on how to better set goals and la
 
 ### Analysis of Theater Outcomes Based on Launch Date
 
+![Theater_Outcomes](https://user-images.githubusercontent.com/65190360/134831674-cd226995-d452-425b-8c2b-d052930d78da.PNG)
+
 Reviewing the chart, we see a few obvious trends. These can be used to help determine the best and worst times to launch a campaign. Below are a few conclusions:
 
 1. Launching campaigns near the beginning or end of the year are very likely to fail.
@@ -17,6 +19,9 @@ Reviewing the chart, we see a few obvious trends. These can be used to help dete
 3. May and June are the best months to launch a caimpaign and are the mostly likely to each their goal.
 
 ### Analysis of Play Outcomes Based on Goals
+
+![Goal_Outcomes](https://user-images.githubusercontent.com/65190360/134831662-4fc5af52-d607-45c5-9543-26c3b36b0553.PNG)
+
 
 This chart of goals tells a different story. Here we have A range of goals and the percentages of campaigns that were successful, failed or canceled. The data does reveal a pattern as outlined below:
 
